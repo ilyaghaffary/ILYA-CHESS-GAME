@@ -26,7 +26,7 @@ This application transforms the ancient game of chess into a modern, visually st
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/tech_skills.gif" alt="Skills GIF" width="450"/>
+  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/tech_skills.gif" alt="Developer GIF" width="450"/>
 </div>
 
 ---
@@ -58,6 +58,12 @@ Your support helps keep the neon lights blazing!
 - **Bitcoin Address:** `1FbJ2rRNVqqhL3vXPueHXvu4xJTrJkT6J3` ₿
 - **Rial Donation (Donito):** [https://donito.me/ilya_ghaffary](https://donito.me/ilya_ghaffary) 
 - **Rial Donation (ZarinPal):** [https://zarinp.al/ilya_ghaffary](https://zarinp.al/ilya_ghaffary) 
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/working_developer.gif" alt="Final GIF" width="450"/>
+</div>
 
 ---
 
