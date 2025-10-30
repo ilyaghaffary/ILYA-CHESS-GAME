@@ -1,7 +1,7 @@
 # ♟️ ILYA-CHESS-GAME: The Neon Battleground
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/working_developer.gif" alt="Animated ILYA-CHESS-GAME" width="450"/>
+  <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/mm.gif" alt="Animated ILYA-CHESS-GAME" width="450"/>
   <h1>ILYA-CHESS-GAME: The Ultimate Neon Chess Experience</h1>
   <p>A sleek, dark, and dynamic mobile chess application, featuring a stunning cyberpunk aesthetic and three distinct game modes.</p>
 </div>
